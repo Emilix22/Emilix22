@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emiliano Torres</h1>
 <h3 align="center">A passionate full stack web developer from Argentina</h3>
-<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="gif" width="300"/>
+<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="gif" width="200"/>
 
 - 📫 How to reach me **emiliano.dev.torres@gmail.com**
 
