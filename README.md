@@ -60,8 +60,12 @@ I'm a passionate **Full Stack Web Developer** who enjoys building modern, scalab
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Emilix22&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emilix22&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+<a href="https://github.com/Emilix22">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Emilix22&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+</a>
+<a href="https://github.com/Emilix22?tab=repositories">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilix22&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</a>
 
 </div>
 
