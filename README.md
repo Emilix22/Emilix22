@@ -1,15 +1,77 @@
-<h1 align="center">Hi 👋, I'm Emiliano Torres</h1>
-<h3 align="center">A passionate full stack web developer from Argentina</h3>
-<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="gif" width="200"/>
+# Hi there, I'm Emiliano Torres 👋
 
-- 📫 How to reach me **emiliano.dev.torres@gmail.com**
+<div align="center">
 
+### Full Stack Web Developer from Argentina 🇦🇷
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="50" height="50"/> </a> </p>
-<br/>
-<br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=emilix22&show_icons=true&locale=en" alt="emilix22" /></p>
+[![Email](https://img.shields.io/badge/Email-emiliano.dev.torres%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiliano.dev.torres@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Emilix22&style=for-the-badge&color=0e75b6)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emilix22&show_icons=true&locale=en&layout=compact" alt="emilix22" /></p>
+</div>
 
+---
+
+## 🚀 About Me
+
+I'm a passionate **Full Stack Web Developer** who enjoys building modern, scalable, and user-friendly web applications.
+
+- 🌎 From **Argentina**
+- 💻 Focused on **frontend and backend development**
+- 🌱 Continuously learning modern tools, architectures, and best practices
+- 🤝 Open to collaborating on meaningful projects
+- 📫 Reach me at **emiliano.dev.torres@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Emilix22&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Emilix22&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+## ✨ What I Care About
+
+- Clean and maintainable code
+- Modern UI/UX experiences
+- Scalable full stack applications
+- Continuous learning and improvement
+
+---
+
+## 📬 Contact
+
+- **Email:** [emiliano.dev.torres@gmail.com](mailto:emiliano.dev.torres@gmail.com)
+
+---
+
+<div align="center">
+
+Thanks for visiting my profile ⭐
+
+</div>
