@@ -1,93 +1,31 @@
-# Hi there, I'm Emiliano Torres 👋
+# Hi, I'm Emiliano Torres 👋
 
-<div align="center">
+**Full-Stack Web Developer** based in Buenos Aires, Argentina. I build web applications and responsive user experiences, working across frontend and backend development. My current focus is JavaScript, React, and modern web tooling.
 
-### Full Stack Web Developer from Argentina 🇦🇷
+[Email](mailto:emiliano.dev.torres@gmail.com) · [LinkedIn](https://www.linkedin.com/) · [Portfolio](https://www.emilixweb.com)
 
-[![Email](https://img.shields.io/badge/Email-emiliano.dev.torres%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiliano.dev.torres@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Emilix22&style=for-the-badge&color=0e75b6)
+## About me
 
-</div>
+- I enjoy turning ideas into practical, accessible, and maintainable web experiences.
+- I have worked on web interfaces, interactive applications, and full-stack projects.
+- I’m currently exploring modern tools and approaches to improve how I build for the web.
+- Open to collaborating on thoughtful web projects.
 
----
+## Featured projects
 
-## 🚀 About Me
+- **[GestiónRH — HR self-service demo](https://github.com/Emilix22/demo-autogestion-rrhh)** — Interactive React and Vite demo of an employee portal for leave requests, approvals, and team absences. Uses simulated data stored in the browser; it is a demonstration, not a production HR system.
+- **[Healthy Toys website](https://www.healthytoys.com.ar)** · [Source code](https://github.com/Emilix22/landing_HT) — Responsive website built with React, Vite, and Material UI.
+- **[More projects](https://github.com/Emilix22?tab=repositories)** — Explore my other web applications and experiments.
 
-I'm a passionate **Full Stack Web Developer** who enjoys building modern, scalable, and user-friendly web applications.
+## Technologies
 
-- 🌎 From **Argentina**
-- 💻 Focused on **frontend and backend development**
-- 🌱 Continuously learning modern tools, architectures, and best practices
-- 🤝 Open to collaborating on meaningful projects
-- 📫 Reach me at **emiliano.dev.torres@gmail.com**
+**Frontend:** JavaScript, React, React Router, HTML5, CSS3, Bootstrap, Vite  
+**Backend and data:** Node.js, Express, Python, Django, MySQL, Sequelize  
+**APIs and integrations:** REST APIs, JWT, Mercado Pago, YouTube API, Nodemailer  
+**Tools:** Git, GitHub Actions, npm, PM2, Postman, Figma
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![MercadoPago](https://img.shields.io/badge/MercadoPago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)
-![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-30B980?style=for-the-badge&logo=maildotru&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Emilix22">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Emilix22&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-</a>
-<a href="https://github.com/Emilix22?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilix22&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</a>
-
-</div>
-
----
-
-## ✨ What I Care About
-
-- Clean and maintainable code
-- Modern UI/UX experiences
-- Scalable full stack applications
-- Continuous learning and improvement
-
----
-
-## 📬 Contact
+## Contact
 
 - **Email:** [emiliano.dev.torres@gmail.com](mailto:emiliano.dev.torres@gmail.com)
-
----
-
-<div align="center">
-
-Thanks for visiting my profile ⭐
-
-</div>
+- **Portfolio:** [emilixweb.com](https://www.emilixweb.com)
+- **GitHub:** [@Emilix22](https://github.com/Emilix22)
