@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer** based in Buenos Aires, Argentina. I build web applications and responsive user experiences, working across frontend and backend development. My current focus is JavaScript, React, and modern web tooling.
 
-[Email](mailto:emiliano.dev.torres@gmail.com) · [LinkedIn](https://www.linkedin.com/) · [Portfolio](https://www.emilixweb.com)
+[Email](mailto:emiliano.dev.torres@gmail.com) · [Portfolio](https://www.emilixweb.com)
 
 ## About me
 
